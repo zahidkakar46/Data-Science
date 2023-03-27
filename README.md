@@ -19,6 +19,9 @@ This project is an exploratory data analysis of the National Rural Access Progra
         8- admin2_poly_32.shx
         9- Admin2_poly_32
         
+  > Note: To ensure that these files can communicate with each other and produce the expected results, it is recommended to consolidate them in a single location.
+  > By placing the files together, it becomes easier to manage dependencies and ensure that all necessary components are available for the execution of the program.
+        
         
   
 
